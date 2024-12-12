@@ -1,7 +1,7 @@
-# Enchanted-AI
-∷╎ᒷ∴╎⚍リ⊣⚍リ⊣𝙹 ⚍リ AI
+# beautiful-AI
+る █ ▛▟ ▞▚ AI
 Overview
-∷╎ᒷ∴╎⚍リ⊣⚍リ⊣𝙹 ⚍リ is an innovative artificial intelligence project that explores alternative communication methods through the use of a unique symbolic language. By employing symbols such as ᒲᕤᕮ⍊ᕒᑑ↸, this AI challenges conventional text-based interaction paradigms and offers a novel approach to human-computer communication.
+る █ ▛▟ ▞▚ is an innovative artificial intelligence project that explores alternative communication methods through the use of a unique symbolic language. By employing symbols such as ᒲᕤᕮ⍊ᕒᑑ↸, this AI challenges conventional text-based interaction paradigms and offers a novel approach to human-computer communication.
 
 The project delves into the complexities of symbol interpretation, encoding, and decoding, providing users with an unconventional platform that stimulates cognitive processing and pattern recognition.
 
